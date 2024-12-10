@@ -33,7 +33,7 @@ A Python script to scrape images from multiple URLs, with support for queuing mu
 
 ### Option 2: Download the Repository as a ZIP File
 
-1. Go to the [GitHub repository](https://github.com/yourusername/multi-link-image-scraper).
+1. Go to the [GitHub repository](https://github.com/frxdcode/multi-link-image-scraper/tree/main).
 2. Click the green **Code** button and select **Download ZIP**.
 3. Extract the ZIP file to your desired location.
 4. Open a terminal or command prompt and navigate to the extracted folder:
