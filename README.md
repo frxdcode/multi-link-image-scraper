@@ -1,4 +1,3 @@
-```markdown
 # Multi-Link Image Scraper with Progress Bars
 
 A Python script to scrape images from multiple URLs, with support for queuing multiple links and assigning custom folder names for each. The script uses Selenium, `requests`, and `tqdm` to provide a user-friendly scraping experience with real-time progress updates.
@@ -20,15 +19,15 @@ A Python script to scrape images from multiple URLs, with support for queuing mu
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/multi-link-image-scraper.git
-   cd multi-link-image-scraper
-   ```
+    ```bash
+    git clone https://github.com/yourusername/multi-link-image-scraper.git
+    cd multi-link-image-scraper
+    ```
 
 2. Install the required Python packages:
-   ```bash
-   pip install selenium requests tqdm webdriver-manager
-   ```
+    ```bash
+    pip install selenium requests tqdm webdriver-manager
+    ```
 
 ## Usage
 
