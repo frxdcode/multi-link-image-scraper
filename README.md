@@ -18,13 +18,30 @@ A Python script to scrape images from multiple URLs, with support for queuing mu
 
 ## Installation
 
-1. Clone this repository:
+### Option 1: Clone the Repository (Recommended)
+
+1. Clone this repository using Git:
     ```bash
     git clone https://github.com/yourusername/multi-link-image-scraper.git
     cd multi-link-image-scraper
     ```
 
 2. Install the required Python packages:
+    ```bash
+    pip install selenium requests tqdm webdriver-manager
+    ```
+
+### Option 2: Download the Repository as a ZIP File
+
+1. Go to the [GitHub repository](https://github.com/yourusername/multi-link-image-scraper).
+2. Click the green **Code** button and select **Download ZIP**.
+3. Extract the ZIP file to your desired location.
+4. Open a terminal or command prompt and navigate to the extracted folder:
+    ```bash
+    cd path/to/multi-link-image-scraper
+    ```
+
+5. Install the required Python packages:
     ```bash
     pip install selenium requests tqdm webdriver-manager
     ```
