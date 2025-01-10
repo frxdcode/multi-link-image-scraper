@@ -22,7 +22,7 @@ A Python script to scrape images from multiple URLs, with support for queuing mu
 
 1. Clone this repository using Git:
     ```bash
-    git clone https://github.com/yourusername/multi-link-image-scraper.git
+    git clone https://github.com/frxdcode/multi-link-image-scraper
     cd multi-link-image-scraper
     ```
 
